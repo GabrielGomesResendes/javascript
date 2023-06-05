@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(4, 116, 0);
+}
+header {
+    max-width: 400px  ;
+    max-width: 600px;
+}
+.cabecalho {
+    background-color: red;
+    display: flex;
+    justify-content:space-between ;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cabecalho > img{
+    height: 60px;
+}
